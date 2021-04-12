@@ -1,3 +1,3 @@
-Exercícios de vetor.
+#Exercícios de vetor.
 
-Exercícios de vetor em Java.
+Exercícios (resolvidos) de vetor em Java.
